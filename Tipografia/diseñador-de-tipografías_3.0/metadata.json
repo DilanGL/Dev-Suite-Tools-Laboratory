@@ -1,0 +1,6 @@
+{
+  "name": "Diseñador de Tipografías",
+  "description": "Editor vectorial interactivo para diseñar y exportar fuentes tipográficas personalizadas (TTF, OTF, SVG, WOFF y WOFF2) directamente en el navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

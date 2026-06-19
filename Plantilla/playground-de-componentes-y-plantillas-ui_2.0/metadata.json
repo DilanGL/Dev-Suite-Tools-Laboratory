@@ -1,0 +1,6 @@
+{
+  "name": "Playground de Componentes y Plantillas UI",
+  "description": "Un sandbox premium para previsualizar, editar y generar componentes UI modernos con el Asistente Inteligente de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

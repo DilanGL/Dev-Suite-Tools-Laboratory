@@ -1,0 +1,28 @@
+# Dependencias pesadas (¡NUNCA deben subirse a GitHub!)
+node_modules/
+jspm_packages/
+
+# Registros de errores y caché
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.stylelintcache
+
+# Carpetas del sistema y de VS Code
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Archivos de variables de entorno (Contienen llaves secretas)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

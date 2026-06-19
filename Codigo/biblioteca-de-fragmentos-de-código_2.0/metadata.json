@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca de Fragmentos de Código",
+  "description": "Una biblioteca personal e interactiva para organizar, crear, editar, duplicar, buscar y previsualizar fragmentos de código en tiempo real con almacenamiento local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

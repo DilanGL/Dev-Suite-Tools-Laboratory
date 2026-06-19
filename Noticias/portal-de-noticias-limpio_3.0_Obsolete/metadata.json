@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Noticias Limpio",
+  "description": "Un portal de noticias completo y libre de anuncios molestos, con modo lectura limpia y distribución clásica con estadísticas financieras en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

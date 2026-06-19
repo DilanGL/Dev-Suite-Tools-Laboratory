@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Tareas",
+  "description": "Una interfaz web para gestionar tareas con prioridades y persistencia en LocalStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
