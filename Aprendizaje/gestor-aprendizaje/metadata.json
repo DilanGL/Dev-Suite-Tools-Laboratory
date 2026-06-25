@@ -1,0 +1,6 @@
+{
+  "name": "OmniBrain",
+  "description": "Advanced intelligence dashboard for modern academic structuring, interactive study maps, timeline navigation, and context-aware Gemini AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

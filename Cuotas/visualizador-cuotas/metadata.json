@@ -1,0 +1,6 @@
+{
+  "name": "Google Cloud and Gemini Quotas Dashboard",
+  "description": "Un dashboard interactivo de alta fidelidad para monitorear consumos, cuotas y límites de Google Cloud y Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
