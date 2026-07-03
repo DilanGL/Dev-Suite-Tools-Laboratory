@@ -1,0 +1,6 @@
+{
+  "name": "Bloc de Notas",
+  "description": "Un bloc de notas minimalista y moderno optimizado para desarrolladores con autoguardado, soporte de múltiples bloques y herramientas rápidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
