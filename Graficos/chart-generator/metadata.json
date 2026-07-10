@@ -1,0 +1,6 @@
+{
+  "name": "Chart Generator",
+  "description": "Generador de gráficos estadísticos interactivo y minimalista con estética futurista y previsualización en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
